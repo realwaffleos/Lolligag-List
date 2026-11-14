@@ -1,0 +1,18 @@
+{
+    "id": 77008332,
+    "name": "Gravity",
+    "author": "Kaza",
+    "creators": ["Kaza"],
+    "verifier": "Wither",
+    "verification": "https://www.youtube.com/watch?v=z5i1scAlwbk",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Wither",
+            "link": "https://www.youtube.com/watch?v=z5i1scAlwbk",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
