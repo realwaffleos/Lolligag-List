@@ -1,0 +1,18 @@
+{
+    "id": 121538082,
+    "name": "Cognitive Capacity",
+    "author": "Griffin128",
+    "creators": ["Griffin128"],
+    "verifier": "waffle",
+    "verification": "https://www.youtube.com/watch?v=zUs792Zj8ss",
+    "percentToQualify": 64,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "waffle",
+            "link": "https://www.youtube.com/watch?v=zUs792Zj8ss",
+            "percent": 100,
+            "hz": 200
+        }
+    ]
+}
