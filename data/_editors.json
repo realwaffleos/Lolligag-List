@@ -1,13 +1,13 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "waffle",
+        "name": "List Owner & Dev",
+        "link": "https://www.youtube.com/@waffleofbusiness"
     },
     {
-        "role": "admin",
+        "role": "wither",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@wthrcrft"
     },
     {
         "role": "helper",
