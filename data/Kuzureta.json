@@ -8,11 +8,5 @@
     "percentToQualify": 56,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Wither",
-            "link": "https://www.youtube.com/watch?v=WyrLsce92SU",
-            "percent": 100,
-            "hz": 300
-        }
     ]
 }
