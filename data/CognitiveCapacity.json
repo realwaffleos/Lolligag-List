@@ -8,11 +8,5 @@
     "percentToQualify": 64,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "waffle",
-            "link": "https://www.youtube.com/watch?v=zUs792Zj8ss",
-            "percent": 100,
-            "hz": 200
-        }
     ]
 }
