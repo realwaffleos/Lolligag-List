@@ -8,11 +8,5 @@
     "percentToQualify": 64,
     "password": "666777",
     "records": [
-        {
-            "user": "Wither",
-            "link": "https://www.youtube.com/watch?v=DYQefq1txqY",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
